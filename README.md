@@ -31,4 +31,5 @@ Data Visualization: Chart.js
 Voice & Audio: Web Speech API (SpeechRecognition & SpeechSynthesis)
 
 Hosting: GitHub Pages (Zero-build, single-file architecture)
+
 MWDKZF
